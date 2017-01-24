@@ -1,4 +1,4 @@
-update=Tue 24 Jan 2017 12:23:41 GMT
+update=Tue 24 Jan 2017 16:41:22 GMT
 version=1
 last_client=kicad
 [cvpcb]
@@ -129,3 +129,4 @@ LibName55=/home/jorge/git/library/library/ttl_ieee
 LibName56=/home/jorge/git/library/library/valves
 LibName57=/home/jorge/git/library/library/video
 LibName58=/home/jorge/git/library/library/xilinx
+LibName59=/home/william/Stick-Logger_RAISE_THE_FORREST/Parts-Lib/JTAG-HEADERS
